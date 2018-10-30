@@ -78,3 +78,4 @@ proc screenClear*(video_mem: PVidMem, color: TVGAColor) =
   while i <=% VGAWidth*VGAHeight:
     video_mem[i] = space
     inc(i)
+

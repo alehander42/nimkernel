@@ -1,5 +1,8 @@
 # nimkernel
 
+
+A FORK OF nimkernel
+
 This is a small 32bit (i586) kernel written using the Nim programming language.
 
 I have been wanting to do this for a while but it wasn't until people in the #nim IRC
